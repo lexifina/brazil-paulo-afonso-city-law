@@ -1,0 +1,61 @@
+{
+ "country": "BR-BA-PAULO-AFONSO",
+ "acts": [
+  {
+   "slug": "lei-2020-01446",
+   "short": "Lei 1446/2020",
+   "title": "Lei nº 1.446, de 1 de julho de 2020",
+   "url": "https://sapl.pauloafonso.ba.leg.br/norma/84",
+   "versions": [
+    {
+     "from": "2020-07-12",
+     "units": 12,
+     "source_url": "https://sapl.pauloafonso.ba.leg.br/media/sapl/public/normajuridica/2020/84/lei_1446.2020_-_fundo_municipal_de_saneamento_basico_-_fmsb.pdf",
+     "sha256": "f23167ae95e0c0e6c0979fd952a8c0a8dcd52731ba503211122effbdade0891c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-01386",
+   "short": "Lei 1386/2018",
+   "title": "Lei nº 1.386, de 11 de julho de 2018",
+   "url": "https://sapl.pauloafonso.ba.leg.br/norma/33",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 5,
+     "source_url": "https://sapl.pauloafonso.ba.leg.br/media/sapl/public/normajuridica/2018/33/lei_1386.2018_-_prorroga_o_programa_refis_ate_31_de_ou_IU6vTXf.pdf",
+     "sha256": "cfe82faaecefa8932f5fa54963f8cf4f45d5356dd74e3b164934c23fa515bcda"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-01374",
+   "short": "Lei 1374/2017",
+   "title": "Lei nº 1.374, de 12 de dezembro de 2017",
+   "url": "https://sapl.pauloafonso.ba.leg.br/norma/76",
+   "versions": [
+    {
+     "from": "2017-12-12",
+     "units": 4,
+     "source_url": "https://sapl.pauloafonso.ba.leg.br/media/sapl/public/normajuridica/2017/76/lei_1374.2017_-_da_nova_redacao_ao_artigo_5_da_lei_municipal_no._1354.2017_-_fixa_subsidio_do_prefeito_vice-prefeito_vereadores_e_secretarios_-_vice-pref._flavio_henrique_magalhaes_lima.pdf",
+     "sha256": "578246fc78c42581197a4e58361de67b01e61c43dce2ebe2e0f94f2f42834def"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-01369",
+   "short": "Lei 1369/2017",
+   "title": "Lei nº 1.369, de 17 de outubro de 2017",
+   "url": "https://sapl.pauloafonso.ba.leg.br/norma/70",
+   "versions": [
+    {
+     "from": "2017-10-17",
+     "units": 15,
+     "source_url": "https://sapl.pauloafonso.ba.leg.br/media/sapl/public/normajuridica/2017/70/lei_1369.2017_-_isntitui_o_programa_de_recuperacao_fiscal_-_refis_-_vice-pref._flavio_henrique_magalhaes_lima.pdf",
+     "sha256": "f2ee3794ca3e447dc722f16d44f4981e4bab8d9ebd3572f9f0a2c92bcc644a59"
+    }
+   ]
+  }
+ ]
+}

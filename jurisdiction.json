@@ -1,0 +1,9 @@
+{
+  "path": "br-ba-paulo-afonso",
+  "code": "BR-BA-PAULO-AFONSO",
+  "name": "Paulo Afonso (city)",
+  "level": "municipality",
+  "parent": "br-ba",
+  "repo": "https://github.com/lexifina/brazil-paulo-afonso-city-law",
+  "build": "built: the law of Paulo Afonso from the Câmara Municipal's SAPL"
+}
